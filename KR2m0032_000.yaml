@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2m0032/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 明宮史
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:51:48.093630'
+  source:
+    repository: kanripo
+    path: KR2m0032/KR2m0032_000.txt
+hash: sha256:635fe6e407fa5636ec7550e190bf64cb0cd700a1823d3351aff938a5369ad554

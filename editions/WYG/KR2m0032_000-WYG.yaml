@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2m0032/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 明宮史
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:51:48.093630'
+  source:
+    repository: kanripo
+    path: KR2m0032/KR2m0032_000.txt
+hash: sha256:f4df69d01caff0169b57c5af4e3330e6065ae862e259308057b8407fa11509f8
